@@ -33,6 +33,10 @@ public class EmployeeDemo {
 		List<String> names = new ArrayList<>();
 		names.add(regx1);
 		System.out.println(names);
+		names.add("testing1");
+		names.add("testing2");
+		names.add("testing3");
+		System.out.println(names);
 
 	}
 
